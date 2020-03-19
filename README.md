@@ -20,4 +20,4 @@ Data was wrangled using pandas and I created an output excel from Pandas with re
 * In the last slide, I wanted to further highlight the income disparity of all applicants across the US. Highlighting that 43 of 50 states have applicants with incomes lower than the mean. This would further mean that there is a upward skewing of mean annual wages contributed by high earners in certain states.
 ![Fifth_slide](/assets/fifth_slide.PNG)
 
-## With that, I end my presentation :)
+### With that, I end my presentation :)
